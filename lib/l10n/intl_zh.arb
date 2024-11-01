@@ -1,0 +1,13 @@
+{
+  "appName": "Flutter_应用",
+  "autoBySystem": "跟随系统",
+  "fontKuaiLe": "快乐字体",
+  "viewStateMessageError": "加载失败",
+  "viewStateMessageNetworkError": "网络连接异常,请检查网络或稍后重试",
+  "viewStateMessageEmpty": "空空如也",
+  "viewStateMessageUnAuth": "未登录",
+  "viewStateButtonRetry": "重试",
+  "viewStateButtonRefresh": "刷新一下",
+  "viewStateButtonLogin": "登录",
+  "viewStateLoading": "加载中"
+}
